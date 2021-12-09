@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: chrisrothdev/rns
+        image: chrisrothdev/argo_test
         ports:
         - containerPort: 8080
